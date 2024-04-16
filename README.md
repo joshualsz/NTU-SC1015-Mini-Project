@@ -1,5 +1,6 @@
 # NTU-SC1015-Mini-Project
 ### About
+***
 This is our mini project for SC1015 (Team 4 FSCD) - Introduction to Data Science and Artificial Intelligence which focuses on Dataset taken from Kaggle regarding customer comments/reviews for tech companies such as Google, Dell, Apple and Microsoft etc.
 
 ### Our Team
