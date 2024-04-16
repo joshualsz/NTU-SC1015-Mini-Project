@@ -17,3 +17,10 @@ Hence, we aim to help companies to streamline the process of determining the exp
 1. Multinomial Naive Bayes Model Approach <br>
 2. Linear SVC Classifier <br>
 3. Sequential Neural Network Model
+
+### Conclusion
+*The length of text has correlation with the sentiment
+*We did different types of analysis in our exploratory analysis but namely, the N-Gram analysis to identify common bi grams associated with each sentiment
+*Most commonly pair words: Dell Technologies
+*The F1 Score for negative from each models - Multinomial Naive Bayes Model Classifier, Linear SVC classifier and Sequential Neural Network are:  0.78, 0.77 and 0.83 respectively
+*Sequential Neural Network had the best results in terms of accuracy with 86% for prediction of true negatives
