@@ -19,8 +19,16 @@ Hence, we aim to help companies to streamline the process of determining the exp
 3. Sequential Neural Network Model
 
 ### Conclusion
-*The length of text has correlation with the sentiment
-*We did different types of analysis in our exploratory analysis but namely, the N-Gram analysis to identify common bi grams associated with each sentiment
-*Most commonly pair words: Dell Technologies
-*The F1 Score for negative from each models - Multinomial Naive Bayes Model Classifier, Linear SVC classifier and Sequential Neural Network are:  0.78, 0.77 and 0.83 respectively
-*Sequential Neural Network had the best results in terms of accuracy with 86% for prediction of true negatives
+- The length of text has correlation with the sentiment
+- We did different types of analysis in our exploratory analysis but namely, the N-Gram analysis to identify common bi grams associated with each sentiment
+- Most commonly pair words: Dell Technologies
+- The F1 Score for negative from each models - Multinomial Naive Bayes Model Classifier, Linear SVC classifier and Sequential Neural Network are:  0.78, 0.77 and 0.83 respectively
+- Sequential Neural Network had the best results in terms of accuracy with 86% for prediction of true negatives
+
+### What did we learn from this project?
+- Handling imbalanced datasets using resampling methods and imblearn package
+- Multinomial Naive Bayes Model Approach, Linear SVC Classifier and Sequential Neural Network Model
+- Logistic Regression from sklearn
+- Other packages such as SentimentIntensityAnalyzer, csr_matrix, hstack, XGBClassifier and LabelEncoder
+- Collaborating using GitHub
+- Concepts about Precision, Recall, and F1 Score
