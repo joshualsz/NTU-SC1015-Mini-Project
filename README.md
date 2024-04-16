@@ -4,9 +4,6 @@ This is our mini project for SC1015 - Introduction to Data Science and Artificia
 
 ### Our Team
 FCSD_Team 4
-
 CHENG YOU JIE ERIC - U2321411D
-
 CHEW WEI HAO KOVAN -U2322227A 
-
 JOSHUA LOW SHAO ZHENG - U2320829C
