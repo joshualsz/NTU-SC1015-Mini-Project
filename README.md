@@ -9,3 +9,6 @@ This is our mini project for SC1015 (Team 4 FSCD) - Introduction to Data Science
 | Chew Wei Hao Kovan | Exploratory Data Analysis, Data Pre-processing , Linear SVC Classifier | @Kovancwh99|
 | Joshua Low Shao Zheng | Exploratory Data Analysis, Data Pre-processing , Sequential Neural Network Model| @joshualsz |
 
+### Problem Statement
+Companies have to spend resources to sort through their customer review to figure out customers’ likes and dislikes <br>
+Hence, we aim to help companies to streamline the process of determining the experience of their customers by conducting sentiment analysis on customer reviews by focusing on the negative sentiments.
