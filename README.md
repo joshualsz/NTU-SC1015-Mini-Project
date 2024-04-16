@@ -1,4 +1,4 @@
 # NTU-SC1015-Mini-Project
 ### About
-SC1015 mini project - FSCD Team 4
+This is our mini project for SC1015 - Introduction to Data Science and Artificial Intelligence 
 
