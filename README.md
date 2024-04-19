@@ -38,3 +38,11 @@ Hence, we aim to help companies to streamline the process of determining the exp
 - Other packages such as SentimentIntensityAnalyzer, csr_matrix, hstack, XGBClassifier and LabelEncoder
 - Collaborating using GitHub
 - Concepts about Precision, Recall, and F1 Score
+
+### References
+***
+- https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+- https://www.tensorflow.org/api_docs/python/tf/keras/Sequential
+- https://www.tensorflow.org/guide/keras/sequential_model
+- https://scikit-learn.org/stable/modules/svm.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
