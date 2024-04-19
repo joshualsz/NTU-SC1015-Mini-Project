@@ -18,9 +18,21 @@ Hence, we aim to help companies to streamline the process of determining the exp
 
 ### Predictive Models used
 ***
-1. Multinomial Naive Bayes Model Approach <br>
-2. Linear SVC Classifier <br>
-3. Sequential Neural Network Model
+**1. Multinomial Naive Bayes Model Approach** <br>
+- is a supervised machine learning algorithm, which is used for classification tasks, like comment classification.
+- works by calculating probability of a given text belonging to a particular sentiment class, based on the frequency of words in text , emotions and length of comment <br>
+
+**2. Linear SVC Classifier** <br>
+- used for classification tasks, similar to Naive Bayes Classifier
+- trained on text and username from our dataset
+- works by mapping data points to a high-dimensional space and then finding the optimal hyperplane that divides the data into two classes <br>
+
+**3. Sequential Neural Network Model**
+- consists of Embedding, Flatten and Dense layer
+- implements early stopping to automatically stop training when the validation loss stops improving to prevent overfitting and the need to manually find the optimal number of epochs
+- **Embending Layer**: the first layer, designed to handle text input. It turns positive integers (indexes) into dense vectors of fixed size
+- **Flatten Layer**: used to flatten the 3D output of the embedding layer to 2D, making it possible to add a dense layer afterward
+- **Dense Layer**: use with a softmax activation function serves as the output layer. It outputs two probabilities, corresponding to the two classes (positive and negative sentiment)
 
 ### Conclusion
 ***
